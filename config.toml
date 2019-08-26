@@ -25,7 +25,7 @@ DefaultContentLanguage = "en"
   [Languages.en.general]
   ## -- GENERAL SITE PARAMETERS -- ##
   fullTitle = "Brown University Effective Altruism"
-  strapline = "Helping you do good better"
+  strapline = "Using reason and evidence to do the most good for the most people"
 
   [Languages.en.groupinfo]
   ## -- EA GROUP INFO -- ##
