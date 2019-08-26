@@ -18,7 +18,7 @@ DefaultContentLanguage = "en"
 
   [Languages]
   [Languages.en]
-  title = "EA at Brown"
+  title = "Brown EA"
   weight = 1
   languageCode = "en"
 
