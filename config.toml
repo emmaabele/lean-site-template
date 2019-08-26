@@ -79,7 +79,7 @@ DefaultContentLanguage = "en"
   secondButtonText = "Check out our Facebook group!"
   secondButtonLink = "https://www.facebook.com/browneffectivealtruism/?ref=br_rs"
   # Remove the # before the text to add the optional Meetup button
-  meetupButtonText = "Find us on Facebook"
+  # meetupButtonText = "Find us on Facebook"
 
   [Languages.en.urls]
   ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
@@ -87,4 +87,4 @@ DefaultContentLanguage = "en"
   # to remove the link from the site
   facebookUrl = "https://www.facebook.com/browneffectivealtruism/?ref=br_rs"
   # twitterUrl = ""
-  meetupUrl = "https://www.facebook.com/browneffectivealtruism/?ref=br_rs"
+  # meetupUrl = "https://www.facebook.com/browneffectivealtruism/?ref=br_rs"
